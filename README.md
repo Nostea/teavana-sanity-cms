@@ -1,9 +1,6 @@
-# Sanity Clean Content Studio
+# teavana teastore Sanity CMS
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+Setup of the CMS for authors. The data will be fetched with GROQ in the frontend in this project:
 
-Now you can do the following things:
+- [teastore (teavana)](https://github.com/Nostea/teastore)
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
